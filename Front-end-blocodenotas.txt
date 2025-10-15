@@ -1,0 +1,36 @@
+Front-end
+
+O processamento é feito no navegador(browser)
+HTML5, CSS3 e JS
+
+Desenvolvimento Front-end
+Produto final: (hospedagem --- navegador)
+
+Material de apoio:
+
+
+Preparação do ambiente do desenvolvimento
+- Instalar o VScode:
+- Instalar um servidor WEB (extensão Live Server)
+- Navegador de internet (Google Chrome)
+
+_____________________________________________________________________________________
+ Aula 1 - Mini projeto (linktree)
+
+Passo 1: Planejamento
+Objetivo: Criar um HUB de links (estilo linktree)
+Escolher a foto, os ícones, o texto, o tipo de fonte e as cores.
+
+Passo 2: Wireframe (modelo)
+Criar um modelo do projeto no Figma(ou outra ferramenta) para obter os dados referente ao posicionamento dos elementos, tamanhos, cores etc.
+
+Passo 3: Estrutura do projeto
+Iniciar sempre criando o projeto no GitHub
+Clonar o repositório
+git clone url-do-repositório
+Abrir a pasta clonada com o VSCode
+Na raiz criar uma pasta de nome img para guardar os ícones e imagens do projeto
+Na raiz, criar um novo arquivo de nome index.html
+Digitar ! [Enter] Para carregar o template do html
+
+
